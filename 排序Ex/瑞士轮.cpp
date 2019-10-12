@@ -1,7 +1,7 @@
 #include <stdio.h> 
 #include <string.h>
 
-/*³¬Ê±´úÂë 
+/*Overtime
 int n,q,r;
 
 typedef struct{
